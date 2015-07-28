@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="AppTheme" parent="AppThemeBase">
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="ViewerTheme" parent="ViewerThemeBase">
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+</resources>
